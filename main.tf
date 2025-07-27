@@ -1,2 +1,1 @@
-Resolved the conflicts successfully
-
+Need to see the diff between git pull and fetch

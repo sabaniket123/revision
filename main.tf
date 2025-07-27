@@ -1,1 +1,2 @@
-defef
+Resolved the conflicts successfully
+
